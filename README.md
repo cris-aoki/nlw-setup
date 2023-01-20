@@ -1,4 +1,4 @@
-<p><center>Projeto desenvolvido durante a Trilha Explorer da Rocketseat.</p></center>
+<p><center>Projeto desenvolvido durante a Trilha Explorer da Rocketseat. </center> </p>
 <br><br><br>
 <h1 align="center"> Habits </h1>
 
@@ -36,7 +36,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Habits é um app para ajudar a rastrear os hábitos.
 
-- [Visite o projeto online](https://maykbrito.github.io/nlw-setup)
+- [Visite o projeto online](https://cris-aoki.github.io/nlw-setup)
 
 ## 🔖 Layout
 
