@@ -90,6 +90,7 @@ input {
   border-radius: 8px;
   background: #18181b;
 }
+
 /*pseudo-selector*/
 input:checked {
   background: #8b5cf6;
